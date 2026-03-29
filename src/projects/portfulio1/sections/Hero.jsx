@@ -1,6 +1,6 @@
 export const Hero = () => {
   return (
-    <div className="flex flex-col justify-center align-middle text-center sm:flex-row-reverse sm:justify-between mt-10 *:bg-amber-400 *:m-2">
+    <div className="flex flex-col justify-center align-middle text-center sm:flex-row-reverse sm:justify-around sm:align-middle mt-10">
       <div className="flex justify-center sm:block">
         <img
           src="/public/laxmancroy.png"
@@ -15,9 +15,9 @@ export const Hero = () => {
         <span className="block text-xl my-5 text-gray-700">
           Full Stack Developer
         </span>
-        <p className="text-gray-500">
-          Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ex
-          voluptatem quidem, obcaecati iusto odio saepe, veritatis eaque modi
+        <p className="text-gray-500 text-wrap">
+          Lorem ipsum dolor sit amet consectetur, adipisicing elit. <br />Ex
+          voluptatem quidem, obcaecati iusto odio saepe, <br /> veritatis eaque modi
           velit harum ab. Praesentium, vel.
         </p>
         <div className="flex flex-wrap justify-center">

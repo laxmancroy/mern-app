@@ -31,7 +31,7 @@ export const Header = () => {
             </div>
 
             {/* Mobile Menu Navigation bar */}
-            {isMenuOpen && <div className="md:hidden bg-amber-300 flex flex-col absolute right-0 top-0 shadow-lg p-5 h-full">
+            {isMenuOpen && <div className="md:hidden bg-amber-300 flex flex-col absolute right-0 top-0 shadow-lg p-5 h-full overflow-hidden">
                 <span className="cursor-pointer" onClick={() => setIsMenuOpen(!isMenuOpen)}><AiOutlineHdd /></span>
                 {
                     navBar.map((link) => (
