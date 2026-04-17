@@ -2,9 +2,9 @@ import { useState } from 'react';
 import { AiFillGithub, AiFillLinkedin, AiFillTwitterCircle, AiFillMail, AiFillPhone, AiFillEnvironment } from 'react-icons/ai';
 
 const socialLinks = [
-  { icon: AiFillGithub, href: 'https://github.com/laxmancr', label: 'GitHub' },
+  { icon: AiFillGithub, href: 'https://github.com/laxmancroy', label: 'GitHub' },
   { icon: AiFillLinkedin, href: 'https://linkedin.com/in/laxmancr', label: 'LinkedIn' },
-  { icon: AiFillTwitterCircle, href: 'https://twitter.com/laxmancr', label: 'Twitter' },
+  { icon: AiFillTwitterCircle, href: 'https://twitter.com/laxmancroy', label: 'Twitter' },
 ];
 
 export const Contact = () => {
