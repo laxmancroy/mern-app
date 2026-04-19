@@ -46,7 +46,7 @@ export const Hero = () => {
                 Order a Service
               </a>
               <a
-                href="https://wa.me/01763226159"
+                href="https://wa.me/01763226159r"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center justify-center px-8 py-4 border-2 border-blue-600 text-blue-600 rounded-lg font-semibold hover:bg-blue-50 transition-colors"
