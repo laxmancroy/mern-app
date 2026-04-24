@@ -2,7 +2,7 @@ import { AiFillCheckCircle } from 'react-icons/ai';
 
 const highlights = [
   "10+ years of professional experience",
-  "Expert in WordPress plugin & theme development",
+  "Expert in Fullstack web development",
   "AI integration specialist",
   "Full-stack JavaScript developer",
   "WooCommerce solutions expert",
@@ -48,19 +48,18 @@ export const About = () => {
               <div className="space-y-4 text-gray-600 leading-relaxed mb-8">
                 <p>
                   Hello! I'm Laxman Chandra Roy, a passionate Full Stack Developer with over 10 years
-                  of experience in web development. I specialize in creating custom WordPress plugins,
-                  themes, and integrating AI solutions into web applications.
+                  of experience in web development. I specialize in creating fullstack web app,
+                  and integrating AI solutions into web applications.
                 </p>
                 <p>
                   Throughout my career, I've successfully delivered 2,400+ projects for clients
                   worldwide, ranging from small businesses to enterprise-level applications. My
-                  expertise spans across PHP, JavaScript, React, Node.js, and various modern web
+                  expertise spans across Typescript, JavaScript, React, Node.js, and various modern web
                   technologies.
                 </p>
                 <p>
                   I'm passionate about writing clean, optimized code and creating solutions that
-                  help businesses grow. Whether you need a custom plugin, a complete website overhaul,
-                  or AI integration, I'm here to help you achieve your goals.
+                  help businesses grow.
                 </p>
               </div>
 
